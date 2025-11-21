@@ -1,0 +1,2 @@
+[console_scripts]
+my-game = VD_main:main

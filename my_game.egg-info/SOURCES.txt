@@ -1,0 +1,7 @@
+pyproject.toml
+VD_games/scripts/VD_games.py
+my_game.egg-info/PKG-INFO
+my_game.egg-info/SOURCES.txt
+my_game.egg-info/dependency_links.txt
+my_game.egg-info/entry_points.txt
+my_game.egg-info/top_level.txt
